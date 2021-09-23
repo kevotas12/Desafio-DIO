@@ -1,5 +1,4 @@
-# repósitorio de git da DIO
-desafio do projeto sobre github
+# Aula_javascript
+introdução ao javascript
 
-## links úteis
-[sintaxe básica Markdown] (https://markdown.net.br/sintaxe-basica/)
+
