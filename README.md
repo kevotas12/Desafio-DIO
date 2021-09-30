@@ -1,9 +1,9 @@
 # Repositório de git da DIO
 ## Futebol society de toda terça:
 
-| Kevin     | Posições | Time(A, B) | Premiação |
+| Jogadores    | Posições | Time(A, B) | Premiação |
 | --------- | -------- | ---------- | --------- |
-| Jogadores | goleiro  | Time-A     | 5 mil     |
+| Kevin | goleiro  | Time-A     | 5 mil     |
 | Mateus    | lateral  | Time-A     | 5 mil     |
 | Lucas     | volante  | Time-A     | 5 mil     |
 | Guilherme | meia     | Time-A     | 5 mil     |
